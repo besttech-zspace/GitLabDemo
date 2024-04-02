@@ -1,5 +1,6 @@
 # Feature 브랜치 
 - Feautre는 개발하는 기능별로 매번 새로 만들어서 사용 ex) feature-login
+  - create branch : git checkout -b new-branch-name   
 - 해당 기능 개발을 완료하면, main 브랜치로 커밋, pull request
 - (논의 필요) Pull Request에 대한 Review 정책
   -  Review를 할 것인지
